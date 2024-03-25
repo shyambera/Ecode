@@ -336,10 +336,10 @@ ALTER TABLE public.job_seeker_cv_skills
     NOT VALID;
 
 
-ALTER TABLE public.job_seeker_cv_web_sites
-    ADD FOREIGN KEY (job_seeker_cv_id)
-    REFERENCES public.job_seeker_cvs (id)
-    NOT VALID;
+-- ALTER TABLE public.job_seeker_cv_web_sites
+--     ADD FOREIGN KEY (job_seeker_cv_id)
+--     REFERENCES public.job_seeker_cvs (id)
+--     NOT VALID;
 
 
 ALTER TABLE public.job_seeker_cv_web_sites
