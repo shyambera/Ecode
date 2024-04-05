@@ -1,0 +1,72 @@
+2024/03/25 16:32:45.977 11404       3320 G12   Logger started.
+2024/03/25 16:32:45.993 11404       3320 G12   CustomConfigurationUpdaterImplWin::ReadInitialConfigurationId: Loading from machine
+2024/03/25 16:32:45.993 11404       3320 G12   CustomConfigurationUpdaterImplWin::ReadInitialConfigurationId: Loading from machine
+2024/03/25 16:32:46.197 11404       3320 G12   CustomConfigurationUpdaterImplWin::ReadInitialConfigurationId: Loading from machine
+2024/03/25 16:32:46.197 11404       3320 G12   Monitors: Generic PnP Monitor, \\.\DISPLAY1, 1920x1080 (0,0), flags=3, dpi=120
+2024/03/25 16:32:46.208 11404       3320 G12   GetWebView2RuntimeVersion: got runtime version 113.0.1774.42
+2024/03/25 16:32:46.244 11404       3320 G12   CMain::LoadResourceDLLs(): No custom resource dll found
+2024/03/25 16:32:46.244 11404       3320 G12   InterProcessBase::SecureNetwork created
+2024/03/25 16:32:46.244 11404       3320 G12   AutoLogin::Login: enabled: 1
+2024/03/25 16:32:46.244 11404       3320 G12   AccountLoginStateMachine::Reset
+2024/03/25 16:32:46.244 11404       3320 G12   TAF::CMML: requesting new list for licenseType [0], accountId [0], companyId [0], clientId [0], addonLicenses [[]], optOut [0]
+2024/03/25 16:32:46.244 11404       3320 G12!  TAF::CJL: invalid URL received.
+2024/03/25 16:32:46.244 11404       3320 G12   VoIP: Constructor
+2024/03/25 16:32:46.260 11404       3320 G12   InterProcessBase::StartTcpCommunicationInternal(): setting m_NetworkConnector to new TCP connector
+2024/03/25 16:32:46.260 11404       3320 G12   Opening local TCP connection to 127.0.0.1:5939
+2024/03/25 16:32:46.260 11404      15284 G12   Local TCP connection established
+2024/03/25 16:34:03.853 16360      19216 G12   Logger started.
+2024/03/25 16:34:03.853 16360      19216 G12   CustomConfigurationUpdaterImplWin::ReadInitialConfigurationId: Loading from machine
+2024/03/25 16:34:03.853 16360      19216 G12   CustomConfigurationUpdaterImplWin::ReadInitialConfigurationId: Loading from machine
+2024/03/25 16:34:04.054 16360      19216 G12   CustomConfigurationUpdaterImplWin::ReadInitialConfigurationId: Loading from machine
+2024/03/25 16:34:04.054 16360      19216 G12   Monitors: Generic PnP Monitor, \\.\DISPLAY1, 1920x1080 (0,0), flags=3, dpi=120
+2024/03/25 16:34:04.054 16360      19216 G12   GetWebView2RuntimeVersion: got runtime version 113.0.1774.42
+2024/03/25 16:34:04.102 16360      19216 G12   CMain::LoadResourceDLLs(): No custom resource dll found
+2024/03/25 16:34:04.102 16360      19216 G12   InterProcessBase::SecureNetwork created
+2024/03/25 16:34:04.102 16360      19216 G12   AutoLogin::Login: enabled: 1
+2024/03/25 16:34:04.102 16360      19216 G12   AccountLoginStateMachine::Reset
+2024/03/25 16:34:04.102 16360      19216 G12   TAF::CMML: requesting new list for licenseType [0], accountId [0], companyId [0], clientId [0], addonLicenses [[]], optOut [0]
+2024/03/25 16:34:04.102 16360      19216 G12!  TAF::CJL: invalid URL received.
+2024/03/25 16:34:04.102 16360      19216 G12   VoIP: Constructor
+2024/03/25 16:34:04.157 16360      19216 G12   Chat::Stop: Stopping chat
+2024/03/25 16:34:04.157 16360      19216 G12   InterProcessBase::SetReadyToProcessCommands(0)
+2024/03/25 16:34:04.157 16360      19216 G12   VoIP: Destructor
+2024/03/25 16:34:04.157 16360       9752 G12   VoIP: VoIPFieldLoggerFileSynchronizer (a ThreadPool): StopThreads
+2024/03/25 16:34:04.157 16360      19216 G12   InterProcessBase::ShutDown: Shutdown IPC
+2024/03/25 16:34:04.157 16360      19216 G12!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 9 failed with error 2
+2024/03/25 16:34:04.157 16360      19216 G12!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 5 failed with error 2
+2024/03/25 16:34:04.157 16360      19216 G12!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 6 failed with error 2
+2024/03/25 16:34:04.157 16360      19216 G12!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 14 failed with error 2
+2024/03/25 16:34:04.157 16360      19216 G12!! ConfigurationHub::HandleRegistrationResponse(): registering for feature 10 failed with error 2
+2024/03/25 16:36:34.860  6564       9956 G12   Logger started.
+2024/03/25 16:36:34.860  6564       9956 G12   CustomConfigurationUpdaterImplWin::ReadInitialConfigurationId: Loading from machine
+2024/03/25 16:36:34.860  6564       9956 G12   CustomConfigurationUpdaterImplWin::ReadInitialConfigurationId: Loading from machine
+2024/03/25 16:36:35.033  6564       9956 G12   CustomConfigurationUpdaterImplWin::ReadInitialConfigurationId: Loading from machine
+2024/03/25 16:36:35.033  6564       9956 G12   Monitors: Generic PnP Monitor, \\.\DISPLAY1, 1920x1080 (0,0), flags=3, dpi=120
+2024/03/25 16:36:35.048  6564       9956 G12   GetWebView2RuntimeVersion: got runtime version 113.0.1774.42
+2024/03/25 16:36:35.080  6564       9956 G12   CMain::LoadResourceDLLs(): No custom resource dll found
+2024/03/25 16:36:35.080  6564       9956 G12   InterProcessBase::SecureNetwork created
+2024/03/25 16:36:35.080  6564       9956 G12   AutoLogin::Login: enabled: 1
+2024/03/25 16:36:35.080  6564       9956 G12   AccountLoginStateMachine::Reset
+2024/03/25 16:36:35.080  6564       9956 G12   TAF::CMML: requesting new list for licenseType [0], accountId [0], companyId [0], clientId [0], addonLicenses [[]], optOut [0]
+2024/03/25 16:36:35.080  6564       9956 G12!  TAF::CJL: invalid URL received.
+2024/03/25 16:36:35.080  6564       9956 G12   VoIP: Constructor
+2024/03/25 16:36:35.095  6564       9956 G12   InterProcessBase::StartTcpCommunicationInternal(): setting m_NetworkConnector to new TCP connector
+2024/03/25 16:36:35.095  6564       9956 G12   Opening local TCP connection to 127.0.0.1:5939
+2024/03/25 16:36:35.095  6564       8224 G12   Local TCP connection established
+2023/07/06 19:13:41.454  8076      38684 G34   Logger started.
+2023/07/06 19:13:41.456  8076      38684 G34   CustomConfigurationUpdaterImplWin::ReadInitialConfigurationId: Loading from machine
+2023/07/06 19:13:41.456  8076      38684 G34   CustomConfigurationUpdaterImplWin::ReadInitialConfigurationId: Loading from machine
+2023/07/06 19:13:41.671  8076      38684 G34   CustomConfigurationUpdaterImplWin::ReadInitialConfigurationId: Loading from machine
+2023/07/06 19:13:41.671  8076      38684 G34   Monitors: Generic PnP Monitor, \\.\DISPLAY1, 1920x1080 (0,0), flags=3, dpi=120
+2023/07/06 19:13:41.671  8076      38684 G34   GetWebView2RuntimeVersion: got runtime version 114.0.1823.67
+2023/07/06 19:13:41.719  8076      38684 G34   CMain::LoadResourceDLLs(): No custom resource dll found
+2023/07/06 19:13:41.719  8076      38684 G34   InterProcessBase::SecureNetwork created
+2023/07/06 19:13:41.734  8076      38684 G34   AutoLogin::Login: enabled: 1
+2023/07/06 19:13:41.734  8076      38684 G34   AccountLoginStateMachine::Reset
+2023/07/06 19:13:41.734  8076      38684 G34   TAF::CMML: requesting new list for licenseType [0], accountId [0], companyId [0], clientId [0], addonLicenses [[]], optOut [0]
+2023/07/06 19:13:41.734  8076      38684 G34!  TAF::CJL: invalid URL received.
+2023/07/06 19:13:41.734  8076      38684 G34   VoIP: Constructor
+2023/07/06 19:13:41.734  8076      38684 G34   InterProcessBase::StartTcpCommunicationInternal(): setting m_NetworkConnector to new TCP connector
+2023/07/06 19:13:41.734  8076      38684 G34   Opening local TCP connection to 127.0.0.1:5939
+2023/07/06 19:13:41.734  8076      26276 G34   Local TCP connection established
+
